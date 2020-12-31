@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My configurations:
+db.ini
+deploy_key_rsa
+local
+local/*
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
